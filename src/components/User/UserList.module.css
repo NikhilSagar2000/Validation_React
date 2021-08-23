@@ -1,0 +1,11 @@
+.user-list{
+    width: 70%;
+    height: 100vh;
+    margin-left: 25%;
+}
+.user-list__card{
+    width: 100%;
+    margin: 12px 12px;
+    height: auto;
+    padding: 24px;
+}
